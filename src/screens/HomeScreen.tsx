@@ -9,13 +9,17 @@ import {
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { scale, verticalScale, moderateScale } from 'react-native-size-matters';
+import { useNavigation } from '@react-navigation/native';
+import type { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { History, Settings } from 'lucide-react-native';
 import { useLocationTracking, useIsOffline } from '../hooks';
 import { useAttendanceStore, useGeofenceStore } from '../store';
 import { StatusBanner, GeofenceMap } from '../components';
 import { colors } from '../constants';
 import { haversineDistanceMeters, formatDateTime } from '../utils';
-import type { HomeScreenProps } from '../navigation';
+import type { RootStackParamList } from '../navigation';
+
+type HomeNavigationProp = NativeStackNavigationProp<RootStackParamList, 'Home'>;
 
 const HistoryHeaderIcon = React.memo(
   ({ onPress }: { onPress: () => void }) => (
@@ -41,7 +45,8 @@ const SettingsHeaderIcon = React.memo(
   ),
 );
 
-const HomeScreen = React.memo(({ navigation }: HomeScreenProps) => {
+const HomeScreen = React.memo(() => {
+  const navigation = useNavigation<HomeNavigationProp>();
   const {
     permission,
     coords,

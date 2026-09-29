@@ -1,9 +1,6 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import {
-  createNativeStackNavigator,
-  type NativeStackScreenProps,
-} from '@react-navigation/native-stack';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import HomeScreen from '../screens/HomeScreen';
 import HistoryScreen from '../screens/HistoryScreen';
 import SettingsScreen from '../screens/SettingsScreen';
@@ -13,16 +10,6 @@ export type RootStackParamList = {
   History: undefined;
   Settings: undefined;
 };
-
-export type HomeScreenProps = NativeStackScreenProps<RootStackParamList, 'Home'>;
-export type HistoryScreenProps = NativeStackScreenProps<
-  RootStackParamList,
-  'History'
->;
-export type SettingsScreenProps = NativeStackScreenProps<
-  RootStackParamList,
-  'Settings'
->;
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
