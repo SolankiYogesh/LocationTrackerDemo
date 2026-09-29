@@ -6,7 +6,7 @@ Geolocation tracking & geofence-based attendance app, built with React Native
 ## Features
 
 - Live GPS tracking on a map
-- 100m geofence around a fixed office location (`src/config/geofence.ts`)
+- Geofence around an office location, configurable from Settings
 - Check-in only works inside the geofence
 - Attendance history stored on-device (AsyncStorage)
 - Handles permission requests, GPS off, and offline usage
@@ -38,19 +38,24 @@ npm run android
 
 ```
 src/
-  config/       office coordinates + geofence radius
+  config/       default office coordinates + geofence radius
   types/        AttendanceRecord
   constants/    colors
   services/     geolocation + storage
   hooks/        useLocationTracking, useIsOffline
-  store/        useAttendanceStore (zustand)
-  screens/      HomeScreen, HistoryScreen
+  store/        useAttendanceStore, useGeofenceStore (zustand)
+  screens/      HomeScreen, HistoryScreen, SettingsScreen
   components/   StatusBanner, GeofenceMap, AttendanceListItem
   navigation/   RootNavigator
-  utils/        haversine, date formatting
+  utils/        haversine, date formatting (dayjs)
 ```
 
 Each folder has an `index.ts` that re-exports everything in it.
 
-In `__DEV__` builds, Home has a button to set the office to your current
-location, for testing check-in without traveling to the real office.
+## Settings
+
+Settings lets you change the office location (tap the map) and the geofence
+radius (+/- stepper, 20-500m). Changes save automatically to AsyncStorage and
+apply immediately on Home. "Use my current location" sets the office to
+wherever you are, and "Reset to default" restores the coordinates in
+`src/config/geofence.ts`.

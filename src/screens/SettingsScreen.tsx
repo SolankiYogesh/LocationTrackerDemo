@@ -2,6 +2,7 @@ import React, { useCallback, useEffect, useMemo } from 'react';
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { scale, verticalScale, moderateScale } from 'react-native-size-matters';
+import { Minus, Plus } from 'lucide-react-native';
 import { useLocationTracking } from '../hooks';
 import {
   useGeofenceStore,
@@ -87,7 +88,7 @@ const SettingsScreen = React.memo(() => {
                 styles.stepperButton,
                 office.radiusMeters <= MIN_RADIUS_METERS && styles.stepperButtonDisabled,
               ]}>
-              <Text style={styles.stepperButtonText}>−</Text>
+              <Minus size={moderateScale(18)} color={colors.primary} />
             </Pressable>
             <Text style={styles.radiusValue}>{office.radiusMeters} m</Text>
             <Pressable
@@ -97,7 +98,7 @@ const SettingsScreen = React.memo(() => {
                 styles.stepperButton,
                 office.radiusMeters >= MAX_RADIUS_METERS && styles.stepperButtonDisabled,
               ]}>
-              <Text style={styles.stepperButtonText}>+</Text>
+              <Plus size={moderateScale(18)} color={colors.primary} />
             </Pressable>
           </View>
         </View>
@@ -178,11 +179,6 @@ const styles = StyleSheet.create({
   },
   stepperButtonDisabled: {
     opacity: 0.4,
-  },
-  stepperButtonText: {
-    fontSize: moderateScale(20),
-    fontWeight: '700',
-    color: colors.textPrimary,
   },
   radiusValue: {
     fontSize: moderateScale(18),

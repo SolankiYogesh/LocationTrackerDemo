@@ -9,6 +9,7 @@ import {
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { scale, verticalScale, moderateScale } from 'react-native-size-matters';
+import { History, Settings } from 'lucide-react-native';
 import { useLocationTracking, useIsOffline } from '../hooks';
 import { useAttendanceStore, useGeofenceStore } from '../store';
 import { StatusBanner, GeofenceMap } from '../components';
@@ -16,22 +17,27 @@ import { colors } from '../constants';
 import { haversineDistanceMeters, formatDateTime } from '../utils';
 import type { HomeScreenProps } from '../navigation';
 
-const HeaderActions = React.memo(
-  ({
-    onPressHistory,
-    onPressSettings,
-  }: {
-    onPressHistory: () => void;
-    onPressSettings: () => void;
-  }) => (
-    <View style={styles.headerActions}>
-      <Pressable onPress={onPressHistory} hitSlop={8}>
-        <Text style={styles.headerLink}>History</Text>
-      </Pressable>
-      <Pressable onPress={onPressSettings} hitSlop={8}>
-        <Text style={styles.headerLink}>Settings</Text>
-      </Pressable>
-    </View>
+const HistoryHeaderIcon = React.memo(
+  ({ onPress }: { onPress: () => void }) => (
+    <Pressable
+      onPress={onPress}
+      hitSlop={8}
+      accessibilityRole="button"
+      accessibilityLabel="Attendance history">
+      <History size={moderateScale(22)} color={colors.textPrimary} />
+    </Pressable>
+  ),
+);
+
+const SettingsHeaderIcon = React.memo(
+  ({ onPress }: { onPress: () => void }) => (
+    <Pressable
+      onPress={onPress}
+      hitSlop={8}
+      accessibilityRole="button"
+      accessibilityLabel="Settings">
+      <Settings size={moderateScale(22)} color={colors.textPrimary} />
+    </Pressable>
   ),
 );
 
@@ -68,12 +74,8 @@ const HomeScreen = React.memo(({ navigation }: HomeScreenProps) => {
 
   useEffect(() => {
     navigation.setOptions({
-      headerRight: () => (
-        <HeaderActions
-          onPressHistory={goToHistory}
-          onPressSettings={goToSettings}
-        />
-      ),
+      headerLeft: () => <HistoryHeaderIcon onPress={goToHistory} />,
+      headerRight: () => <SettingsHeaderIcon onPress={goToSettings} />,
     });
   }, [navigation, goToHistory, goToSettings]);
 
@@ -260,16 +262,6 @@ const styles = StyleSheet.create({
   scrollContent: {
     paddingTop: verticalScale(12),
     paddingBottom: verticalScale(32),
-  },
-  headerActions: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: scale(14),
-  },
-  headerLink: {
-    color: colors.primary,
-    fontSize: moderateScale(15),
-    fontWeight: '600',
   },
   card: {
     marginHorizontal: scale(16),
