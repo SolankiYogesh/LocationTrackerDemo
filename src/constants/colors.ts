@@ -1,0 +1,27 @@
+const colors = {
+  primary: '#2563EB',
+  success: '#16A34A',
+  successLight: '#DCFCE7',
+  successDark: '#15803D',
+  danger: '#DC2626',
+  dangerLight: '#FEE2E2',
+  dangerDark: '#B91C1C',
+  warning: '#B45309',
+  warningLight: '#FEF3C7',
+  info: '#1D4ED8',
+  infoLight: '#DBEAFE',
+  textPrimary: '#111827',
+  textSecondary: '#374151',
+  textMuted: '#6B7280',
+  border: '#E5E7EB',
+  borderDashed: '#D1D5DB',
+  background: '#F9FAFB',
+  white: '#FFFFFF',
+  black: '#000000',
+  disabled: '#9CA3AF',
+  badgeOutsideBg: '#F3F4F6',
+  mapFillInside: 'rgba(22,163,74,0.15)',
+  mapFillOutside: 'rgba(37,99,235,0.12)',
+};
+
+export default colors;
