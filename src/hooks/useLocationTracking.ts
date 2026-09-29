@@ -6,6 +6,7 @@ import {
   clearWatch,
   isPositionUnavailableError,
   openAppSettings,
+  promptEnableGps,
   requestLocationPermission,
   watchPosition,
   type PermissionState,
@@ -80,6 +81,11 @@ export const useLocationTracking = () => {
     return result;
   }, [startWatching]);
 
+  const enableGps = useCallback(async () => {
+    await promptEnableGps();
+    startWatching();
+  }, [startWatching]);
+
   useEffect(() => {
     evaluatePermission();
     return stopWatching;
@@ -100,7 +106,8 @@ export const useLocationTracking = () => {
       ...state,
       requestPermission,
       openAppSettings,
+      enableGps,
     }),
-    [state, requestPermission],
+    [state, requestPermission, enableGps],
   );
 };

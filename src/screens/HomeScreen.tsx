@@ -1,6 +1,7 @@
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import {
   ActivityIndicator,
+  Platform,
   Pressable,
   ScrollView,
   StyleSheet,
@@ -54,6 +55,7 @@ const HomeScreen = React.memo(() => {
     errorMessage,
     requestPermission,
     openAppSettings,
+    enableGps,
   } = useLocationTracking();
   const isOffline = useIsOffline();
 
@@ -173,6 +175,8 @@ const HomeScreen = React.memo(() => {
           <StatusBanner
             tone="error"
             message="Can't get a GPS fix. Make sure Location Services are turned on."
+            actionLabel={Platform.OS === 'android' ? 'Enable' : undefined}
+            onAction={Platform.OS === 'android' ? enableGps : undefined}
           />
         )}
         {isOffline && (

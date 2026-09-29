@@ -1,0 +1,1232 @@
+diff --git a/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/results.bin b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/results.bin
+new file mode 100644
+index 0000000..7ed749e
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/results.bin
+@@ -0,0 +1 @@
++o/bundleLibRuntimeToDirDebug
+diff --git a/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerException.dex b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerException.dex
+new file mode 100644
+index 0000000..5ff0840
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerException.dex differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule$Companion.dex b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule$Companion.dex
+new file mode 100644
+index 0000000..d74a800
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule$Companion.dex differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.dex b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.dex
+new file mode 100644
+index 0000000..7f13d30
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.dex differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage.dex b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage.dex
+new file mode 100644
+index 0000000..57582b0
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage.dex differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/BuildConfig.dex b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/BuildConfig.dex
+new file mode 100644
+index 0000000..6d4825c
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/BuildConfig.dex differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.dex b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.dex
+new file mode 100644
+index 0000000..1a9cd9e
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.dex differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_global-synthetics/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage$$InternalSyntheticLambda$2$60d765481c9bacbf08b6db5000f1b34a4dee51a865245ad0941e55586ece825e$0.globals b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_global-synthetics/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage$$InternalSyntheticLambda$2$60d765481c9bacbf08b6db5000f1b34a4dee51a865245ad0941e55586ece825e$0.globals
+new file mode 100644
+index 0000000..cf6ce7d
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_global-synthetics/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage$$InternalSyntheticLambda$2$60d765481c9bacbf08b6db5000f1b34a4dee51a865245ad0941e55586ece825e$0.globals differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin
+new file mode 100644
+index 0000000..601f245
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/.transforms/55e5f1a7390735f8d85fd1984874193c/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/buildConfig/debug/com/heanoria/library/reactnative/locationenabler/BuildConfig.java b/node_modules/react-native-android-location-enabler/android/build/generated/source/buildConfig/debug/com/heanoria/library/reactnative/locationenabler/BuildConfig.java
+new file mode 100644
+index 0000000..ebcb643
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/buildConfig/debug/com/heanoria/library/reactnative/locationenabler/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.heanoria.library.reactnative.locationenabler;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "com.heanoria.library.reactnative.locationenabler";
++  public static final String BUILD_TYPE = "debug";
++}
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/java/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.java b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/java/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.java
+new file mode 100644
+index 0000000..c5eb635
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/java/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.java
+@@ -0,0 +1,44 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateModuleJavaSpec.js
++ *
++ * @nolint
++ */
++
++package com.heanoria.library.reactnative.locationenabler;
++
++import com.facebook.proguard.annotations.DoNotStrip;
++import com.facebook.react.bridge.Promise;
++import com.facebook.react.bridge.ReactApplicationContext;
++import com.facebook.react.bridge.ReactContextBaseJavaModule;
++import com.facebook.react.bridge.ReactMethod;
++import com.facebook.react.bridge.ReadableMap;
++import com.facebook.react.turbomodule.core.interfaces.TurboModule;
++import javax.annotation.Nonnull;
++import javax.annotation.Nullable;
++
++public abstract class NativeAndroidLocationEnablerSpec extends ReactContextBaseJavaModule implements TurboModule {
++  public static final String NAME = "AndroidLocationEnabler";
++
++  public NativeAndroidLocationEnablerSpec(ReactApplicationContext reactContext) {
++    super(reactContext);
++  }
++
++  @Override
++  public @Nonnull String getName() {
++    return NAME;
++  }
++
++  @ReactMethod
++  @DoNotStrip
++  public abstract void promptForEnableLocationIfNeeded(@Nullable ReadableMap option, Promise promise);
++
++  @ReactMethod
++  @DoNotStrip
++  public abstract void isLocationEnabled(Promise promise);
++}
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/AndroidLocationEnablerSpec-generated.cpp b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/AndroidLocationEnablerSpec-generated.cpp
+new file mode 100644
+index 0000000..adfdc86
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/AndroidLocationEnablerSpec-generated.cpp
+@@ -0,0 +1,38 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateModuleJniCpp.js
++ */
++
++#include "AndroidLocationEnablerSpec.h"
++
++namespace facebook::react {
++
++static facebook::jsi::Value __hostFunction_NativeAndroidLocationEnablerSpecJSI_promptForEnableLocationIfNeeded(facebook::jsi::Runtime& rt, TurboModule &turboModule, const facebook::jsi::Value* args, size_t count) {
++  static jmethodID cachedMethodId = nullptr;
++  return static_cast<JavaTurboModule &>(turboModule).invokeJavaMethod(rt, PromiseKind, "promptForEnableLocationIfNeeded", "(Lcom/facebook/react/bridge/ReadableMap;Lcom/facebook/react/bridge/Promise;)V", args, count, cachedMethodId);
++}
++
++static facebook::jsi::Value __hostFunction_NativeAndroidLocationEnablerSpecJSI_isLocationEnabled(facebook::jsi::Runtime& rt, TurboModule &turboModule, const facebook::jsi::Value* args, size_t count) {
++  static jmethodID cachedMethodId = nullptr;
++  return static_cast<JavaTurboModule &>(turboModule).invokeJavaMethod(rt, PromiseKind, "isLocationEnabled", "(Lcom/facebook/react/bridge/Promise;)V", args, count, cachedMethodId);
++}
++
++NativeAndroidLocationEnablerSpecJSI::NativeAndroidLocationEnablerSpecJSI(const JavaTurboModule::InitParams &params)
++  : JavaTurboModule(params) {
++  methodMap_["promptForEnableLocationIfNeeded"] = MethodMetadata {1, __hostFunction_NativeAndroidLocationEnablerSpecJSI_promptForEnableLocationIfNeeded};
++  methodMap_["isLocationEnabled"] = MethodMetadata {0, __hostFunction_NativeAndroidLocationEnablerSpecJSI_isLocationEnabled};
++}
++
++std::shared_ptr<TurboModule> AndroidLocationEnablerSpec_ModuleProvider(const std::string &moduleName, const JavaTurboModule::InitParams &params) {
++  if (moduleName == "AndroidLocationEnabler") {
++    return std::make_shared<NativeAndroidLocationEnablerSpecJSI>(params);
++  }
++  return nullptr;
++}
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/AndroidLocationEnablerSpec.h b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/AndroidLocationEnablerSpec.h
+new file mode 100644
+index 0000000..69773bd
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/AndroidLocationEnablerSpec.h
+@@ -0,0 +1,31 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateModuleJniH.js
++ */
++
++#pragma once
++
++#include <ReactCommon/JavaTurboModule.h>
++#include <ReactCommon/TurboModule.h>
++#include <jsi/jsi.h>
++
++namespace facebook::react {
++
++/**
++ * JNI C++ class for module 'NativeAndroidLocationEnabler'
++ */
++class JSI_EXPORT NativeAndroidLocationEnablerSpecJSI : public JavaTurboModule {
++public:
++  NativeAndroidLocationEnablerSpecJSI(const JavaTurboModule::InitParams &params);
++};
++
++
++JSI_EXPORT
++std::shared_ptr<TurboModule> AndroidLocationEnablerSpec_ModuleProvider(const std::string &moduleName, const JavaTurboModule::InitParams &params);
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/CMakeLists.txt b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/CMakeLists.txt
+new file mode 100644
+index 0000000..98aba3a
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/CMakeLists.txt
+@@ -0,0 +1,28 @@
++# Copyright (c) Meta Platforms, Inc. and affiliates.
++#
++# This source code is licensed under the MIT license found in the
++# LICENSE file in the root directory of this source tree.
++
++cmake_minimum_required(VERSION 3.13)
++set(CMAKE_VERBOSE_MAKEFILE on)
++
++file(GLOB react_codegen_SRCS CONFIGURE_DEPENDS *.cpp react/renderer/components/AndroidLocationEnablerSpec/*.cpp)
++
++add_library(
++  react_codegen_AndroidLocationEnablerSpec
++  OBJECT
++  ${react_codegen_SRCS}
++)
++
++target_include_directories(react_codegen_AndroidLocationEnablerSpec PUBLIC . react/renderer/components/AndroidLocationEnablerSpec)
++
++target_link_libraries(
++  react_codegen_AndroidLocationEnablerSpec
++  fbjni
++  jsi
++  # We need to link different libraries based on whether we are building rncore or not, that's necessary
++  # because we want to break a circular dependency between react_codegen_rncore and reactnative
++  reactnative
++)
++
++target_compile_reactnative_options(react_codegen_AndroidLocationEnablerSpec PRIVATE)
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/AndroidLocationEnablerSpecJSI.h b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/AndroidLocationEnablerSpecJSI.h
+new file mode 100644
+index 0000000..6b3ce15
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/AndroidLocationEnablerSpecJSI.h
+@@ -0,0 +1,94 @@
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateModuleH.js
++ */
++
++#pragma once
++
++#include <ReactCommon/TurboModule.h>
++#include <react/bridging/Bridging.h>
++
++namespace facebook::react {
++
++
++#pragma mark - NativeAndroidLocationEnablerAndroidLocationEnablerOptions
++
++template <typename P0, typename P1>
++struct NativeAndroidLocationEnablerAndroidLocationEnablerOptions {
++  P0 interval{};
++  P1 waitForAccurate;
++  bool operator==(const NativeAndroidLocationEnablerAndroidLocationEnablerOptions &other) const {
++    return interval == other.interval && waitForAccurate == other.waitForAccurate;
++  }
++};
++
++template <typename T>
++struct NativeAndroidLocationEnablerAndroidLocationEnablerOptionsBridging {
++  static T types;
++
++  static T fromJs(
++      jsi::Runtime &rt,
++      const jsi::Object &value,
++      const std::shared_ptr<CallInvoker> &jsInvoker) {
++    T result{
++      bridging::fromJs<decltype(types.interval)>(rt, value.getProperty(rt, "interval"), jsInvoker),
++      bridging::fromJs<decltype(types.waitForAccurate)>(rt, value.getProperty(rt, "waitForAccurate"), jsInvoker)};
++    return result;
++  }
++
++#ifdef DEBUG
++  static double intervalToJs(jsi::Runtime &rt, decltype(types.interval) value) {
++    return bridging::toJs(rt, value);
++  }
++  static bool waitForAccurateToJs(jsi::Runtime &rt, decltype(types.waitForAccurate) value) {
++    return bridging::toJs(rt, value);
++  }
++#endif
++
++  static jsi::Object toJs(
++      jsi::Runtime &rt,
++      const T &value,
++      const std::shared_ptr<CallInvoker> &jsInvoker) {
++    auto result = facebook::jsi::Object(rt);
++    result.setProperty(rt, "interval", bridging::toJs(rt, value.interval, jsInvoker));
++    if (value.waitForAccurate) {
++      result.setProperty(rt, "waitForAccurate", bridging::toJs(rt, value.waitForAccurate.value(), jsInvoker));
++    }
++    return result;
++  }
++};
++
++
++template <typename T>
++class JSI_EXPORT NativeAndroidLocationEnablerCxxSpec : public TurboModule {
++public:
++  static constexpr std::string_view kModuleName = "AndroidLocationEnabler";
++
++protected:
++  NativeAndroidLocationEnablerCxxSpec(std::shared_ptr<CallInvoker> jsInvoker) : TurboModule(std::string{NativeAndroidLocationEnablerCxxSpec::kModuleName}, jsInvoker) {
++    methodMap_["promptForEnableLocationIfNeeded"] = MethodMetadata {.argCount = 1, .invoker = __promptForEnableLocationIfNeeded};
++    methodMap_["isLocationEnabled"] = MethodMetadata {.argCount = 0, .invoker = __isLocationEnabled};
++  }
++  
++private:
++  static jsi::Value __promptForEnableLocationIfNeeded(jsi::Runtime &rt, TurboModule &turboModule, const jsi::Value* args, size_t count) {
++    static_assert(
++      bridging::getParameterCount(&T::promptForEnableLocationIfNeeded) == 2,
++      "Expected promptForEnableLocationIfNeeded(...) to have 2 parameters");
++    return bridging::callFromJs<jsi::Value>(rt, &T::promptForEnableLocationIfNeeded,  static_cast<NativeAndroidLocationEnablerCxxSpec*>(&turboModule)->jsInvoker_, static_cast<T*>(&turboModule),
++      count <= 0 || args[0].isUndefined() ? std::nullopt : std::make_optional(args[0].asObject(rt)));
++  }
++
++  static jsi::Value __isLocationEnabled(jsi::Runtime &rt, TurboModule &turboModule, const jsi::Value* /*args*/, size_t /*count*/) {
++    static_assert(
++      bridging::getParameterCount(&T::isLocationEnabled) == 1,
++      "Expected isLocationEnabled(...) to have 1 parameters");
++    return bridging::callFromJs<jsi::Value>(rt, &T::isLocationEnabled,  static_cast<NativeAndroidLocationEnablerCxxSpec*>(&turboModule)->jsInvoker_, static_cast<T*>(&turboModule));
++  }
++};
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ComponentDescriptors.cpp b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ComponentDescriptors.cpp
+new file mode 100644
+index 0000000..178ceae
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ComponentDescriptors.cpp
+@@ -0,0 +1,22 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateComponentDescriptorCpp.js
++ */
++
++#include <react/renderer/components/AndroidLocationEnablerSpec/ComponentDescriptors.h>
++#include <react/renderer/core/ConcreteComponentDescriptor.h>
++#include <react/renderer/componentregistry/ComponentDescriptorProviderRegistry.h>
++
++namespace facebook::react {
++
++void AndroidLocationEnablerSpec_registerComponentDescriptorsFromCodegen(
++  std::shared_ptr<const ComponentDescriptorProviderRegistry> registry) {
++
++}
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ComponentDescriptors.h b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ComponentDescriptors.h
+new file mode 100644
+index 0000000..79050cf
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ComponentDescriptors.h
+@@ -0,0 +1,24 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateComponentDescriptorH.js
++ */
++
++#pragma once
++
++#include <react/renderer/components/AndroidLocationEnablerSpec/ShadowNodes.h>
++#include <react/renderer/core/ConcreteComponentDescriptor.h>
++#include <react/renderer/componentregistry/ComponentDescriptorProviderRegistry.h>
++
++namespace facebook::react {
++
++
++
++void AndroidLocationEnablerSpec_registerComponentDescriptorsFromCodegen(
++  std::shared_ptr<const ComponentDescriptorProviderRegistry> registry);
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/EventEmitters.cpp b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/EventEmitters.cpp
+new file mode 100644
+index 0000000..0a46fc5
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/EventEmitters.cpp
+@@ -0,0 +1,16 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateEventEmitterCpp.js
++ */
++
++#include <react/renderer/components/AndroidLocationEnablerSpec/EventEmitters.h>
++
++
++namespace facebook::react {
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/EventEmitters.h b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/EventEmitters.h
+new file mode 100644
+index 0000000..2845a63
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/EventEmitters.h
+@@ -0,0 +1,17 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateEventEmitterH.js
++ */
++#pragma once
++
++#include <react/renderer/components/view/ViewEventEmitter.h>
++
++
++namespace facebook::react {
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/Props.cpp b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/Props.cpp
+new file mode 100644
+index 0000000..1b9665a
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/Props.cpp
+@@ -0,0 +1,19 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GeneratePropsCpp.js
++ */
++
++#include <react/renderer/components/AndroidLocationEnablerSpec/Props.h>
++#include <react/renderer/core/PropsParserContext.h>
++#include <react/renderer/core/propsConversions.h>
++
++namespace facebook::react {
++
++
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/Props.h b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/Props.h
+new file mode 100644
+index 0000000..870864b
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/Props.h
+@@ -0,0 +1,18 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GeneratePropsH.js
++ */
++#pragma once
++
++
++
++namespace facebook::react {
++
++
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ShadowNodes.cpp b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ShadowNodes.cpp
+new file mode 100644
+index 0000000..9ffdd11
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ShadowNodes.cpp
+@@ -0,0 +1,17 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateShadowNodeCpp.js
++ */
++
++#include <react/renderer/components/AndroidLocationEnablerSpec/ShadowNodes.h>
++
++namespace facebook::react {
++
++
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ShadowNodes.h b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ShadowNodes.h
+new file mode 100644
+index 0000000..e7bdda6
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/ShadowNodes.h
+@@ -0,0 +1,23 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateShadowNodeH.js
++ */
++
++#pragma once
++
++#include <react/renderer/components/AndroidLocationEnablerSpec/EventEmitters.h>
++#include <react/renderer/components/AndroidLocationEnablerSpec/Props.h>
++#include <react/renderer/components/AndroidLocationEnablerSpec/States.h>
++#include <react/renderer/components/view/ConcreteViewShadowNode.h>
++#include <jsi/jsi.h>
++
++namespace facebook::react {
++
++
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/States.cpp b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/States.cpp
+new file mode 100644
+index 0000000..922217f
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/States.cpp
+@@ -0,0 +1,16 @@
++
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateStateCpp.js
++ */
++#include <react/renderer/components/AndroidLocationEnablerSpec/States.h>
++
++namespace facebook::react {
++
++
++
++} // namespace facebook::react
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/States.h b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/States.h
+new file mode 100644
+index 0000000..2e55bce
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/jni/react/renderer/components/AndroidLocationEnablerSpec/States.h
+@@ -0,0 +1,20 @@
++/**
++ * This code was generated by [react-native-codegen](https://www.npmjs.com/package/react-native-codegen).
++ *
++ * Do not edit this file as changes may cause incorrect behavior and will be lost
++ * once the code is regenerated.
++ *
++ * @generated by codegen project: GenerateStateH.js
++ */
++#pragma once
++
++#include <react/renderer/core/StateData.h>
++#ifdef RN_SERIALIZABLE_STATE
++#include <folly/dynamic.h>
++#endif
++
++namespace facebook::react {
++
++
++
++} // namespace facebook::react
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/schema.json b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/schema.json
+new file mode 100644
+index 0000000..f0a224e
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/generated/source/codegen/schema.json
+@@ -0,0 +1 @@
++{"libraryName":"","modules":{"NativeAndroidLocationEnabler":{"type":"NativeModule","aliasMap":{"AndroidLocationEnablerOptions":{"type":"ObjectTypeAnnotation","properties":[{"name":"interval","optional":false,"typeAnnotation":{"type":"NumberTypeAnnotation"}},{"name":"waitForAccurate","optional":true,"typeAnnotation":{"type":"BooleanTypeAnnotation"}}]}},"enumMap":{},"spec":{"eventEmitters":[],"methods":[{"name":"promptForEnableLocationIfNeeded","optional":false,"typeAnnotation":{"type":"FunctionTypeAnnotation","returnTypeAnnotation":{"type":"PromiseTypeAnnotation","elementType":{"type":"UnionTypeAnnotation","types":[{"type":"StringLiteralTypeAnnotation","value":"enabled"},{"type":"StringLiteralTypeAnnotation","value":"already-enabled"}]}},"params":[{"name":"option","optional":true,"typeAnnotation":{"type":"TypeAliasTypeAnnotation","name":"AndroidLocationEnablerOptions"}}]}},{"name":"isLocationEnabled","optional":false,"typeAnnotation":{"type":"FunctionTypeAnnotation","returnTypeAnnotation":{"type":"PromiseTypeAnnotation","elementType":{"type":"BooleanTypeAnnotation"}},"params":[]}}]},"moduleName":"AndroidLocationEnabler"}}}
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml b/node_modules/react-native-android-location-enabler/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..8c1155c
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.heanoria.library.reactnative.locationenabler" >
++
++    <uses-sdk android:minSdkVersion="24" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json b/node_modules/react-native-android-location-enabler/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+new file mode 100644
+index 0000000..59bf7b9
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.heanoria.library.reactnative.locationenabler",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties b/node_modules/react-native-android-location-enabler/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+new file mode 100644
+index 0000000..b4c821b
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+@@ -0,0 +1,7 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=37
++minCompileMinorSdk=0
++minCompileSdkExtension=0
++minAndroidGradlePluginVersion=1.0.0
++coreLibraryDesugaringEnabled=false
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/android_res_source_set_path_map/debug/mapDebugSourceSetPaths/file-map.txt b/node_modules/react-native-android-location-enabler/android/build/intermediates/android_res_source_set_path_map/debug/mapDebugSourceSetPaths/file-map.txt
+new file mode 100644
+index 0000000..5501e61
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/android_res_source_set_path_map/debug/mapDebugSourceSetPaths/file-map.txt
+@@ -0,0 +1,9 @@
++com.heanoria.library.reactnative.locationenabler.react-native-android-location-enabler-pngs-0 /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/build/generated/res/pngs/debug
++com.heanoria.library.reactnative.locationenabler.react-native-android-location-enabler-updated_navigation_xml-1 /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/build/generated/updated_navigation_xml/debug
++com.heanoria.library.reactnative.locationenabler.react-native-android-location-enabler-mergeDebugResources-2 /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
++com.heanoria.library.reactnative.locationenabler.react-native-android-location-enabler-mergeDebugResources-3 /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
++com.heanoria.library.reactnative.locationenabler.react-native-android-location-enabler-debug-4 /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/build/intermediates/merged_res/debug/mergeDebugResources
++com.heanoria.library.reactnative.locationenabler.react-native-android-location-enabler-debug-5 /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/build/intermediates/packaged_res/debug/packageDebugResources
++com.heanoria.library.reactnative.locationenabler.react-native-android-location-enabler-debug-6 /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/debug/res
++com.heanoria.library.reactnative.locationenabler.react-native-android-location-enabler-main-7 /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/res
++gradleHome-0 /Users/yogesh/.gradle
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json b/node_modules/react-native-android-location-enabler/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar b/node_modules/react-native-android-location-enabler/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar
+new file mode 100644
+index 0000000..394bfd7
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar b/node_modules/react-native-android-location-enabler/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar
+new file mode 100644
+index 0000000..11cd4eb
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt b/node_modules/react-native-android-location-enabler/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..ec1d2a1
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Tue Sep 29 08:23:27 IST 2026
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..483a3c5
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~:!&lt;dir>navigation"><source path="/Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~:!&lt;dir>navigation"><source path="/Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~:!&lt;dir>navigation"/><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/mergeDebugAssets/merger.xml b/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/mergeDebugAssets/merger.xml
+new file mode 100644
+index 0000000..5d1fc88
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/mergeDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/assets"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/debug/assets"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..0e8d02c
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/react-native-android-location-enabler_debug.kotlin_module b/node_modules/react-native-android-location-enabler/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/react-native-android-location-enabler_debug.kotlin_module
+new file mode 100644
+index 0000000..ef915de
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/react-native-android-location-enabler_debug.kotlin_module differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/heanoria/library/reactnative/locationenabler/BuildConfig.class b/node_modules/react-native-android-location-enabler/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/heanoria/library/reactnative/locationenabler/BuildConfig.class
+new file mode 100644
+index 0000000..be1150a
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/heanoria/library/reactnative/locationenabler/BuildConfig.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.class b/node_modules/react-native-android-location-enabler/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.class
+new file mode 100644
+index 0000000..1c68b1e
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt b/node_modules/react-native-android-location-enabler/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt b/node_modules/react-native-android-location-enabler/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..83ce21f
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,9 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.heanoria.library.reactnative.locationenabler" >
++4
++5    <uses-sdk android:minSdkVersion="24" />
++5-->INJECTED
++5-->INJECTED
++6
++7</manifest>
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml b/node_modules/react-native-android-location-enabler/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+new file mode 100644
+index 0000000..8c1155c
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.heanoria.library.reactnative.locationenabler" >
++
++    <uses-sdk android:minSdkVersion="24" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json b/node_modules/react-native-android-location-enabler/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt b/node_modules/react-native-android-location-enabler/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+new file mode 100644
+index 0000000..08f4ebe
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+@@ -0,0 +1 @@
++0 Warning/Error
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/META-INF/react-native-android-location-enabler_debug.kotlin_module b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/META-INF/react-native-android-location-enabler_debug.kotlin_module
+new file mode 100644
+index 0000000..ef915de
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/META-INF/react-native-android-location-enabler_debug.kotlin_module differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerException.class b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerException.class
+new file mode 100644
+index 0000000..677ad66
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerException.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule$Companion.class b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule$Companion.class
+new file mode 100644
+index 0000000..08059e1
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule$Companion.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.class b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.class
+new file mode 100644
+index 0000000..51f6b16
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage.class b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage.class
+new file mode 100644
+index 0000000..40fa121
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/BuildConfig.class b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/BuildConfig.class
+new file mode 100644
+index 0000000..be1150a
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/BuildConfig.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.class b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.class
+new file mode 100644
+index 0000000..1c68b1e
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/heanoria/library/reactnative/locationenabler/NativeAndroidLocationEnablerSpec.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt b/node_modules/react-native-android-location-enabler/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+new file mode 100644
+index 0000000..f97c465
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+@@ -0,0 +1 @@
++com.heanoria.library.reactnative.locationenabler
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab
+new file mode 100644
+index 0000000..90a1b82
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream
+new file mode 100644
+index 0000000..a43224f
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len
+new file mode 100644
+index 0000000..d06b111
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at
+new file mode 100644
+index 0000000..4e3fcc7
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i
+new file mode 100644
+index 0000000..3ec4f16
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab
+new file mode 100644
+index 0000000..81bcc4d
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream
+new file mode 100644
+index 0000000..afe8d49
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len
+new file mode 100644
+index 0000000..e4db031
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len
+new file mode 100644
+index 0000000..93a595b
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at
+new file mode 100644
+index 0000000..8f28327
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i
+new file mode 100644
+index 0000000..d83a1aa
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab
+new file mode 100644
+index 0000000..2a55bc0
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream
+new file mode 100644
+index 0000000..afe8d49
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len
+new file mode 100644
+index 0000000..e4db031
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len
+new file mode 100644
+index 0000000..93a595b
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at
+new file mode 100644
+index 0000000..b719e63
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i
+new file mode 100644
+index 0000000..d83a1aa
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab
+new file mode 100644
+index 0000000..bdf584a
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream
+new file mode 100644
+index 0000000..b597bfa
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len
+new file mode 100644
+index 0000000..82d23af
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len
+new file mode 100644
+index 0000000..2a17e6e
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at
+new file mode 100644
+index 0000000..a850c56
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i
+new file mode 100644
+index 0000000..0a2f998
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab
+new file mode 100644
+index 0000000..2a55bc0
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream
+new file mode 100644
+index 0000000..fe2206a
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len
+new file mode 100644
+index 0000000..e4db031
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len
+new file mode 100644
+index 0000000..93a595b
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at
+new file mode 100644
+index 0000000..b719e63
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i
+new file mode 100644
+index 0000000..719ed26
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab
+new file mode 100644
+index 0000000..02cfa94
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream
+new file mode 100644
+index 0000000..0f12c93
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len
+new file mode 100644
+index 0000000..96ea0ef
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len
+new file mode 100644
+index 0000000..ec8f944
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at
+new file mode 100644
+index 0000000..a736091
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i
+new file mode 100644
+index 0000000..f9063bd
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab
+new file mode 100644
+index 0000000..82b73c0
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream
+new file mode 100644
+index 0000000..a43224f
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len
+new file mode 100644
+index 0000000..d06b111
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at
+new file mode 100644
+index 0000000..27fccbc
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i
+new file mode 100644
+index 0000000..3ec4f16
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab
+new file mode 100644
+index 0000000..496d462
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream
+new file mode 100644
+index 0000000..e60c6ba
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len
+new file mode 100644
+index 0000000..58526d7
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len
+new file mode 100644
+index 0000000..ec8f944
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at
+new file mode 100644
+index 0000000..c030911
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i
+new file mode 100644
+index 0000000..985964f
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab
+new file mode 100644
+index 0000000..11b0eca
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream
+new file mode 100644
+index 0000000..df44c92
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len
+new file mode 100644
+index 0000000..c2d0b7d
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at
+new file mode 100644
+index 0000000..49bc2d0
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i
+new file mode 100644
+index 0000000..daa9a27
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+new file mode 100644
+index 0000000..c393a51
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+@@ -0,0 +1,2 @@
++3
++0
+\ No newline at end of file
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab
+new file mode 100644
+index 0000000..7ae2d6a
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream
+new file mode 100644
+index 0000000..a43224f
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len
+new file mode 100644
+index 0000000..d06b111
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at
+new file mode 100644
+index 0000000..9f383b5
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i
+new file mode 100644
+index 0000000..3ec4f16
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab
+new file mode 100644
+index 0000000..b3d29cd
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream
+new file mode 100644
+index 0000000..636f34a
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len
+new file mode 100644
+index 0000000..29ce11c
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at
+new file mode 100644
+index 0000000..21584e8
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i
+new file mode 100644
+index 0000000..e9905b3
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab
+new file mode 100644
+index 0000000..9286394
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream
+new file mode 100644
+index 0000000..a7afae4
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len
+new file mode 100644
+index 0000000..295263c
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len
+new file mode 100644
+index 0000000..c343333
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at
+new file mode 100644
+index 0000000..00fbb1d
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i
+new file mode 100644
+index 0000000..a9a3d7c
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin
+new file mode 100644
+index 0000000..059153a
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin
+new file mode 100644
+index 0000000..31d1585
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/react-native-android-location-enabler/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..7fee4d4
+--- /dev/null
++++ b/node_modules/react-native-android-location-enabler/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,16 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/AndroidManifest.xml:1:1-2:12
++INJECTED from /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/AndroidManifest.xml:1:1-2:12
++	package
++		INJECTED from /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/AndroidManifest.xml:1:11-69
++uses-sdk
++INJECTED from /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/AndroidManifest.xml
++INJECTED from /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/yogesh/Desktop/Projects/GeoAttendance/node_modules/react-native-android-location-enabler/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/react-native-android-location-enabler/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/react-native-android-location-enabler/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..99bdf89
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/META-INF/react-native-android-location-enabler_debug.kotlin_module b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/META-INF/react-native-android-location-enabler_debug.kotlin_module
+new file mode 100644
+index 0000000..ef915de
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/META-INF/react-native-android-location-enabler_debug.kotlin_module differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerException.class b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerException.class
+new file mode 100644
+index 0000000..677ad66
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerException.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule$Companion.class b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule$Companion.class
+new file mode 100644
+index 0000000..08059e1
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule$Companion.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.class b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.class
+new file mode 100644
+index 0000000..51f6b16
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage.class b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage.class
+new file mode 100644
+index 0000000..40fa121
+Binary files /dev/null and b/node_modules/react-native-android-location-enabler/android/build/tmp/kotlin-classes/debug/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerPackage.class differ
+diff --git a/node_modules/react-native-android-location-enabler/android/src/main/java/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.kt b/node_modules/react-native-android-location-enabler/android/src/main/java/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.kt
+index 3b098e4..9512f52 100644
+--- a/node_modules/react-native-android-location-enabler/android/src/main/java/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.kt
++++ b/node_modules/react-native-android-location-enabler/android/src/main/java/com/heanoria/library/reactnative/locationenabler/AndroidLocationEnablerModule.kt
+@@ -38,7 +38,7 @@ class AndroidLocationEnablerModule(reactContext: ReactApplicationContext) :
+   }
+ 
+   override fun isLocationEnabled(promise: Promise) {
+-    if (currentActivity == null) return
++    if (context.currentActivity == null) return
+ 
+     val locationManager = this.context.getSystemService(Context.LOCATION_SERVICE) as LocationManager
+ 
+@@ -52,7 +52,7 @@ class AndroidLocationEnablerModule(reactContext: ReactApplicationContext) :
+   }
+ 
+   override fun promptForEnableLocationIfNeeded(params: ReadableMap?, promise: Promise) {
+-    if (currentActivity == null) return
++    if (context.currentActivity == null) return
+ 
+     this.promise = promise
+ 
+@@ -114,7 +114,7 @@ class AndroidLocationEnablerModule(reactContext: ReactApplicationContext) :
+   }
+ 
+   private fun isLocationProviderEnabled(): Boolean {
+-    val locationManager = currentActivity?.getSystemService(Context.LOCATION_SERVICE) as LocationManager
++    val locationManager = context.currentActivity?.getSystemService(Context.LOCATION_SERVICE) as LocationManager
+     if (locationManager.isProviderEnabled(LocationManager.GPS_PROVIDER)) {
+       return true
+     }

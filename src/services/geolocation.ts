@@ -11,6 +11,7 @@ import {
   request,
   RESULTS,
 } from 'react-native-permissions';
+import { promptForEnableLocationIfNeeded } from 'react-native-android-location-enabler';
 
 Geolocation.setRNConfiguration({
   skipPermissionRequests: true,
@@ -60,6 +61,15 @@ export const requestLocationPermission = async (): Promise<PermissionState> => {
 };
 
 export const openAppSettings = (): Promise<void> => openSettings();
+
+export const promptEnableGps = async (): Promise<void> => {
+  if (Platform.OS !== 'android') return;
+  try {
+    await promptForEnableLocationIfNeeded();
+  } catch (error) {
+    console.warn('[geolocation] Failed to enable GPS', error);
+  }
+};
 
 export const getCurrentPosition = (): Promise<GeolocationResponse> =>
   new Promise((resolve, reject) => {
