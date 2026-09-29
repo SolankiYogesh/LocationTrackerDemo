@@ -1,13 +1,15 @@
-import AsyncStorage from '@react-native-async-storage/async-storage';
+import { createMMKV } from 'react-native-mmkv';
 import type { AttendanceRecord } from '../types';
 import type { GeofenceConfig } from '../config';
+
+const storage = createMMKV();
 
 const ATTENDANCE_RECORDS_KEY = '@geo_attendance/records';
 const GEOFENCE_SETTINGS_KEY = '@geo_attendance/geofence_settings';
 
-export const loadAttendanceRecords = async (): Promise<AttendanceRecord[]> => {
+export const loadAttendanceRecords = (): AttendanceRecord[] => {
   try {
-    const raw = await AsyncStorage.getItem(ATTENDANCE_RECORDS_KEY);
+    const raw = storage.getString(ATTENDANCE_RECORDS_KEY);
     if (!raw) {
       return [];
     }
@@ -19,22 +21,17 @@ export const loadAttendanceRecords = async (): Promise<AttendanceRecord[]> => {
   }
 };
 
-export const saveAttendanceRecords = async (
-  records: AttendanceRecord[],
-): Promise<void> => {
+export const saveAttendanceRecords = (records: AttendanceRecord[]): void => {
   try {
-    await AsyncStorage.setItem(
-      ATTENDANCE_RECORDS_KEY,
-      JSON.stringify(records),
-    );
+    storage.set(ATTENDANCE_RECORDS_KEY, JSON.stringify(records));
   } catch (error) {
     console.warn('[storage] Failed to save attendance records', error);
   }
 };
 
-export const loadGeofenceSettings = async (): Promise<GeofenceConfig | null> => {
+export const loadGeofenceSettings = (): GeofenceConfig | null => {
   try {
-    const raw = await AsyncStorage.getItem(GEOFENCE_SETTINGS_KEY);
+    const raw = storage.getString(GEOFENCE_SETTINGS_KEY);
     if (!raw) {
       return null;
     }
@@ -45,11 +42,9 @@ export const loadGeofenceSettings = async (): Promise<GeofenceConfig | null> => 
   }
 };
 
-export const saveGeofenceSettings = async (
-  settings: GeofenceConfig,
-): Promise<void> => {
+export const saveGeofenceSettings = (settings: GeofenceConfig): void => {
   try {
-    await AsyncStorage.setItem(GEOFENCE_SETTINGS_KEY, JSON.stringify(settings));
+    storage.set(GEOFENCE_SETTINGS_KEY, JSON.stringify(settings));
   } catch (error) {
     console.warn('[storage] Failed to save geofence settings', error);
   }

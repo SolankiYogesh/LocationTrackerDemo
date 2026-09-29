@@ -1,6 +1,5 @@
-import React, { useCallback, useEffect, useMemo, useState } from 'react';
+import React, { useCallback, useEffect, useMemo } from 'react';
 import {
-  ActivityIndicator,
   Platform,
   Pressable,
   ScrollView,
@@ -69,8 +68,6 @@ const HomeScreen = React.memo(() => {
   const geofenceHydrated = useGeofenceStore(state => state.hydrated);
   const hydrateGeofence = useGeofenceStore(state => state.hydrate);
 
-  const [isCheckingIn, setIsCheckingIn] = useState(false);
-
   const goToHistory = useCallback(() => {
     navigation.navigate('History');
   }, [navigation]);
@@ -125,23 +122,17 @@ const HomeScreen = React.memo(() => {
       permission === 'granted' &&
       !!coords &&
       isInsideGeofence &&
-      !alreadyCheckedInToday &&
-      !isCheckingIn,
-    [permission, coords, isInsideGeofence, alreadyCheckedInToday, isCheckingIn],
+      !alreadyCheckedInToday,
+    [permission, coords, isInsideGeofence, alreadyCheckedInToday],
   );
 
-  const handleCheckIn = useCallback(async () => {
+  const handleCheckIn = useCallback(() => {
     if (!coords || distanceMeters === null) return;
-    setIsCheckingIn(true);
-    try {
-      await checkIn({
-        latitude: coords.latitude,
-        longitude: coords.longitude,
-        distanceFromOfficeMeters: distanceMeters,
-      });
-    } finally {
-      setIsCheckingIn(false);
-    }
+    checkIn({
+      latitude: coords.latitude,
+      longitude: coords.longitude,
+      distanceFromOfficeMeters: distanceMeters,
+    });
   }, [coords, distanceMeters, checkIn]);
 
   const latestRecord = useMemo(() => records[0] ?? null, [records]);
@@ -236,15 +227,9 @@ const HomeScreen = React.memo(() => {
           onPress={handleCheckIn}
           disabled={!canCheckIn}
           style={[styles.checkInButton, !canCheckIn && styles.buttonDisabled]}>
-          {isCheckingIn ? (
-            <ActivityIndicator color={colors.white} />
-          ) : (
-            <Text style={styles.checkInButtonText}>
-              {alreadyCheckedInToday
-                ? 'Already checked in today'
-                : 'Check In'}
-            </Text>
-          )}
+          <Text style={styles.checkInButtonText}>
+            {alreadyCheckedInToday ? 'Already checked in today' : 'Check In'}
+          </Text>
         </Pressable>
 
         {!canCheckIn && !alreadyCheckedInToday && permission === 'granted' && (

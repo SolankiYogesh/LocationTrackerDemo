@@ -9,40 +9,40 @@ const MAX_RADIUS_METERS = 500;
 interface GeofenceState {
   office: GeofenceConfig;
   hydrated: boolean;
-  hydrate: () => Promise<void>;
-  setLocation: (latitude: number, longitude: number) => Promise<void>;
-  setRadius: (radiusMeters: number) => Promise<void>;
-  resetToDefault: () => Promise<void>;
+  hydrate: () => void;
+  setLocation: (latitude: number, longitude: number) => void;
+  setRadius: (radiusMeters: number) => void;
+  resetToDefault: () => void;
 }
 
 export const useGeofenceStore = create<GeofenceState>((set, get) => ({
   office: OFFICE_GEOFENCE,
   hydrated: false,
 
-  hydrate: async () => {
-    const saved = await loadGeofenceSettings();
+  hydrate: () => {
+    const saved = loadGeofenceSettings();
     set({ office: saved ?? OFFICE_GEOFENCE, hydrated: true });
   },
 
-  setLocation: async (latitude, longitude) => {
+  setLocation: (latitude, longitude) => {
     const next = { ...get().office, latitude, longitude };
     set({ office: next });
-    await saveGeofenceSettings(next);
+    saveGeofenceSettings(next);
   },
 
-  setRadius: async radiusMeters => {
+  setRadius: radiusMeters => {
     const clamped = Math.min(
       MAX_RADIUS_METERS,
       Math.max(MIN_RADIUS_METERS, radiusMeters),
     );
     const next = { ...get().office, radiusMeters: clamped };
     set({ office: next });
-    await saveGeofenceSettings(next);
+    saveGeofenceSettings(next);
   },
 
-  resetToDefault: async () => {
+  resetToDefault: () => {
     set({ office: OFFICE_GEOFENCE });
-    await saveGeofenceSettings(OFFICE_GEOFENCE);
+    saveGeofenceSettings(OFFICE_GEOFENCE);
   },
 }));
 

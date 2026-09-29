@@ -6,10 +6,10 @@ import { isSameDay } from '../utils';
 interface AttendanceState {
   records: AttendanceRecord[];
   hydrated: boolean;
-  hydrate: () => Promise<void>;
+  hydrate: () => void;
   checkIn: (
     input: Omit<AttendanceRecord, 'id' | 'timestamp'>,
-  ) => Promise<AttendanceRecord>;
+  ) => AttendanceRecord;
   hasCheckedInToday: () => boolean;
 }
 
@@ -17,15 +17,15 @@ export const useAttendanceStore = create<AttendanceState>((set, get) => ({
   records: [],
   hydrated: false,
 
-  hydrate: async () => {
-    const records = await loadAttendanceRecords();
+  hydrate: () => {
+    const records = loadAttendanceRecords();
     set({
       records: [...records].sort((a, b) => b.timestamp - a.timestamp),
       hydrated: true,
     });
   },
 
-  checkIn: async input => {
+  checkIn: input => {
     const record: AttendanceRecord = {
       ...input,
       id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
@@ -33,7 +33,7 @@ export const useAttendanceStore = create<AttendanceState>((set, get) => ({
     };
     const next = [record, ...get().records];
     set({ records: next });
-    await saveAttendanceRecords(next);
+    saveAttendanceRecords(next);
     return record;
   },
 
